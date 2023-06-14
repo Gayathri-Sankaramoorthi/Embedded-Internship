@@ -1,0 +1,2 @@
+# Embedded-Internship
+The presentation for my project completed during a one-month online embedded internship at Emertxe Information Technologies. The project involved simulating a microwave oven using PIC16F877A microcontroller. The presentation provides an overview of the project, including its objectives and key highlights. It was a valuable experience that enhanced my understanding of embedded systems development and improved my skills in MPLAB X IDE and MPLAB Xc8 compiler
